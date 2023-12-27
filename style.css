@@ -7,7 +7,7 @@
 
 body {
     color: #0ef;
-    background: url(C:/Users/Naveen/Desktop/portfolio/backgound.jpg);
+    background: url(backgound.jpg);
 
 }
 
@@ -70,7 +70,7 @@ h2 {
     width: 100%;
     justify-content: space-between;
     height: 100vh;
-    background: url(C:/Users/Naveen/Desktop/portfolio/backgound.jpg);
+    background: url(backgound.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
